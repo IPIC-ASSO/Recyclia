@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938756693098",
+    "project_id": "recyclia-74830",
+    "storage_bucket": "recyclia-74830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938756693098:android:98000bd7d01f7fe5043e13",
+        "android_client_info": {
+          "package_name": "com.ipicasso.recyclia.recyclia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938756693098-os2133d3h0u912sljjv4mq36kk19el7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc82ZC25ZjU_qAs49JIIXv1-ZPwRt6P5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938756693098-os2133d3h0u912sljjv4mq36kk19el7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

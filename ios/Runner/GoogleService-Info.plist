@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938756693098-lontj27cud9luvkegamlcdefjgsfj82a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938756693098-lontj27cud9luvkegamlcdefjgsfj82a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6HGYsyfwEHx05Yc6a3iumxRWRSL0sUV4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938756693098</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ipicasso.recyclia.recyclia</string>
+	<key>PROJECT_ID</key>
+	<string>recyclia-74830</string>
+	<key>STORAGE_BUCKET</key>
+	<string>recyclia-74830.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938756693098:ios:91bc933764deda46043e13</string>
+</dict>
+</plist>
