@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setEnabledSystemUIOverlays ([]);
+    SystemChrome.setEnabledSystemUIMode (SystemUiMode.manual, overlays: []);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'RecycLIA',
@@ -127,7 +127,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         style: const TextStyle(color: Colors.blue),
                         recognizer: TapGestureRecognizer()
                           ..onTap = () {
-                            launch('https://www.ipic-asso.fr');
+                            launchUrl(Uri.parse('https://www.ipic-asso.fr'));
                           },
                       ),
                     ],
@@ -173,7 +173,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         style: const TextStyle(color: Colors.blue),
                         recognizer: TapGestureRecognizer()
                           ..onTap = () {
-                            launch('https://www.ipic-asso.fr');
+                            launchUrl(Uri.parse('https://www.ipic-asso.fr'));
                           },
                       ),
                     ],
